@@ -28,5 +28,6 @@
 </div>
 
 <h2>📊 Profile Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhilX15&theme=dark" alt="PhilX15" /><a> </a><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhilX15&show_icons=true&locale=en&theme=dark" alt="PhilX15" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhilX15&theme=dark" alt="PhilX15" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhilX15&show_icons=true&locale=en&theme=dark" alt="PhilX15" /></p>
 <br>
