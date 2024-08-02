@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="left">Hello World!!</p>
 
-<!--
-**PhilX15/PhilX15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="right">
+  <img height="500" src="https://imgur.com/llMiMFG"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img src="https://raw.githubusercontent.com/PhilX15/PhilX15/output/snake.svg" alt="Snake animation" />
+
+###
