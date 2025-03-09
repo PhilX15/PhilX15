@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Flashcards](https://github.com/PhilX15/CFlashcards)  
 
-- 🌱 I'm currently improving my C programming skills
+- 🌱 I'm currently improving my C and C++ programming skills
 
-- 🎮 I am passionate about computer games and I even made a simple one in Godot [AquarionisGame](https://philx15.itch.io/aquarionis)
+- 🎮 I am passionate about computer games and I'm currently working on one in C++
 
 <br>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -14,6 +14,9 @@
     <div align="center">
         <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="128" height="128" />
+        </a>
+        <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="128" height="128" />
         </a>
         <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="128" height="128" />
