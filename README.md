@@ -1,5 +1,3 @@
-![PhilX](https://github.com/user-attachments/assets/b5e9d322-9f3c-4b56-bea6-74e4beadb629)
-
 # <div align="center">I'm PhilX, a student of the Lodz University of Technology 🎓</div>  
 
 - 🔭 I’m currently working on [Flashcards](https://github.com/PhilX15/CFlashcards)  
