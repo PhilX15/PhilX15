@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [Flashcards](https://github.com/PhilX15/CFlashcards)  
 
-- 🌱 I'm currently improving my C and C++ programming skills
+- 🌱 I'm currently improving my Java programming skills
 
-- 🎮 I am passionate about computer games and I'm currently working on one in C++
+- 🎮 I am passionate about computer games
 
 <br>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -18,6 +18,9 @@
         </a>
         <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="128" height="128" />
+        </a>
+        <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="128" height="128" />
         </a>
     </div>
     <div align="center">
