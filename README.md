@@ -1,8 +1,8 @@
 # <div align="center">I'm PhilX, a student of the Lodz University of Technology 🎓</div>  
 
-- 🔭 I’m currently working on [Flashcards](https://github.com/PhilX15/CFlashcards)  
+- 🔭 I’m currently working on [Flashcards](https://github.com/PhilX15/CppFlashcards)  
 
-- 🌱 I'm currently improving my Java programming skills
+- 🌱 I'm currently improving my Java and C++ programming skills
 
 - 🎮 I am passionate about computer games
 
