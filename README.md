@@ -1,4 +1,4 @@
-# <div align="center">I'm PhilX, a student of the Lodz University of Technology 🎓</div>  
+# <div align="center">I'm PhilX, a student at the Lodz University of Technology 🎓</div>  
 
 <br>
 <h2>🚀 Languages and Tools I Use</h2>
