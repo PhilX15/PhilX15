@@ -1,29 +1,13 @@
-# <div align="center">I'm PhilX, a student at the Lodz University of Technology 🎓</div>  
+# 💫 About Me
+- 🎓 I'm a **Computer Science** student at the **Lodz University of Technology**<br>
+- 🌱 I’m currently learning: **Spring Boot, Angular, Kotlin**<br>
+- ⚡ Besides coding, I enjoy playing strategic computer games
 
-<br>
-<h2>🚀 Languages and Tools I Use</h2>
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div align="center">
-        <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="128" height="128" />
-        </a>
-        <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="128" height="128" />
-        </a>
-        <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="128" height="128" />
-        </a>
-        <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="128" height="128" />
-        </a>
-        </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="128" height="128"/> </a> </p>
-    </div>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhilX15&show_icons=true&locale=en&layout=compact&theme=dark" alt="PhilX15" />
-    </div>
-</div>
 
-<h2>📊 Profile Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhilX15&theme=dark" alt="PhilX15" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhilX15&show_icons=true&locale=en&theme=dark" alt="PhilX15" /></p>
-<br>
+
+# 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PhilX15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=PhilX15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PhilX15&theme=dark&hide_border=false)<br/>
