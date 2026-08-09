@@ -1,6 +1,6 @@
 # 💫 About Me
 - 🎓 I'm a **Computer Science** student at the **Lodz University of Technology**<br>
-- 🌱 I’m currently learning: **Spring Boot, Angular, Kotlin**<br>
+- 🌱 I’m currently learning: **Kotlin, C\#**<br>
 - ⚡ Besides coding, I enjoy playing strategic computer games
 
 
